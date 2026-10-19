@@ -1,0 +1,16 @@
+[
+  {
+    "messageID": "5921906484",
+    "messageHash": "59:0:HEY,YOU.",
+    "recipient": "+27879957578",
+    "message": "Hey, I hate you.",
+    "status": "SENT"
+  },
+  {
+    "messageID": "6555059292",
+    "messageHash": "65:1:HEY,YOU:)",
+    "recipient": "+27564778930",
+    "message": "Hey, I still hate you:)",
+    "status": "STORED"
+  }
+]
